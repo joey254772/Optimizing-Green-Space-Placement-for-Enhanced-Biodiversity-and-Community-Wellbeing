@@ -6,11 +6,11 @@ A project to explore and model the optimal placement of urban green spaces to ma
 
 This project aims to:
 
-1.Develop a spatial model:**  Create a model that simulates the impact of different green space placements on biodiversity (e.g., species richness, habitat connectivity) and community wellbeing (e.g., access to recreation, air quality improvement).
-2.Identify optimal locations:** Utilize the model to identify areas within a chosen urban environment where new or enhanced green spaces would provide the greatest positive impact.
-3.Evaluate different green space designs:**  Explore the influence of green space characteristics (size, shape, vegetation type) on the outcomes.
-4.Provide actionable insights:**  Offer recommendations for urban planners and policymakers regarding green space strategies that promote both ecological health and community benefits.
-5.Explore the effect of green space in mitigating the urban heat island effect.**
+1.Develop a spatial model:  Create a model that simulates the impact of different green space placements on biodiversity (e.g., species richness, habitat connectivity) and community wellbeing (e.g., access to recreation, air quality improvement).
+2.Identify optimal locations: Utilize the model to identify areas within a chosen urban environment where new or enhanced green spaces would provide the greatest positive impact.
+3.Evaluate different green space designs:  Explore the influence of green space characteristics (size, shape, vegetation type) on the outcomes.
+4.Provide actionable insights: Offer recommendations for urban planners and policymakers regarding green space strategies that promote both ecological health and community benefits.
+5.Explore the effect of green space in mitigating the urban heat island effect.
 
 ## Tools and Libraries
 
